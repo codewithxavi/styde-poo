@@ -26,3 +26,6 @@ class Carro
   }
 }
 $nokia = new Carro('Blanco', 4, '370Z', 'Nissan');
+
+echo $nokia->color;
+
